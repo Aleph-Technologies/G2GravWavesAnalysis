@@ -9,6 +9,11 @@ NOTE: The mass quadrupoles of these sources, such as deformed neutron stars, are
 ALSO: Likely candidates for producing such signals are neutron stars spinning with some non-axisymmetric deformation (Zimmermann & Szedenits 1979). This may be a solid deformation such as mountains on the crust produced during cooling (Ushomirsky et al. 2000), from binary accretion (Gittins & Andersson 2021) or due to strong magnetic fields (Bonazzola & Gourgoulhon 1996; Cutler 2002). GW radiation can also be caused by fluid modes of oscillation beneath the crust such as r-modes (Andersson 1998; Friedman & Morsink 1998). 
 
 Types of CW searches: 
+1. Targeted searches look for signals from known pulsars for
+which their rotational phases can be accurately mined from electromagnetic (EM) observations. Iit is assumed that theGW phase evolution is locked to the EM evolution.
+2. 
+3. 
+
 
 Useful terminology: 
 
