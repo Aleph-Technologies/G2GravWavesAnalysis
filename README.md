@@ -10,7 +10,7 @@ ALSO: Likely candidates for producing such signals are neutron stars spinning wi
 
 Types of CW searches: 
 1. Targeted searches look for signals from known pulsars for
-which their rotational phases can be accurately mined from electromagnetic (EM) observations. Iit is assumed that theGW phase evolution is locked to the EM evolution.
+which their rotational phases can be accurately mined from electromagnetic (EM) observations. It is assumed that theGW phase evolution is locked to the EM evolution.
 2. 
 3. 
 
